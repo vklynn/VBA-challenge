@@ -6,7 +6,7 @@ Screen shot information
   
   SS2 - Shows out put of code after it is ran before precentage change and yearly change is conditionally formated
   
-  SS3 - Shows outpu after condtional formating of percentage change and yearly change
+  SS3 - Shows output after condtional formating of percentage change and yearly change
             Percentage change formated from decimals to percenatges
             Yearly change conditionally formated so all values greater than 0 is grean
             All values less than 0 is red
