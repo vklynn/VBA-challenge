@@ -10,5 +10,6 @@ Screen shot information
             Percentage change formated from decimals to percenatges
             Yearly change conditionally formated so all values greater than 0 is grean
             All values less than 0 is red
+  SS4 - Same as SS3 just includes data looped through
 
 Code was inspired by in class activity reading credit cards and both cenus activities 
